@@ -1,0 +1,3 @@
+﻿  starwars.cpp
+G:\ШАГ 1 курс\Programing\games C++\starwars\starwars\starwars.cpp(561,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  starwars.vcxproj -> G:\ШАГ 1 курс\Programing\games C++\starwars\Debug\starwars.exe
